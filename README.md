@@ -8,4 +8,7 @@ This code is based on the PySpace (https://github.com/HackerPoet/PySpace) reposi
 Some generative models for reaction diffusion equations
 
 ## Collatz
-Some simullations on collatz conjecture
+Some simulations on collatz conjecture
+
+## Primes 
+Simulations on prime structures
