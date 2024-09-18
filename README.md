@@ -12,3 +12,6 @@ Some simulations on collatz conjecture
 
 ## Primes 
 Simulations on prime structures
+
+## js Worlds
+Pure JS joy
