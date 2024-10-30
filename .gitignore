@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# V-envs
+roots_env
+lyon_venv
+
+# project specifics
+lyon/output
+lyon/input

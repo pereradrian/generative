@@ -1,0 +1,1 @@
+In this folder the RGB outputs will be generated
