@@ -1,0 +1,10 @@
+AC
+AH
+AB
+BH
+BC
+BA
+BB
+AD
+BG
+AA
