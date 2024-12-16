@@ -1,4 +1,7 @@
 # Generative
+
+In this repository I collect some of my own developments that I consider generate visual content with a certain artistic touch.
+
 ## Mandelbruh
 Some fractal real-time animations implemented in python.
 
@@ -11,7 +14,13 @@ Some generative models for reaction diffusion equations
 Some simulations on collatz conjecture
 
 ## Primes 
-Simulations on prime structures
+Simulations on prime structures in natural numbers
 
 ## js Worlds
 Pure JS joy
+
+## Lyon
+This is used to tile images into RGB symbols
+
+## Roots
+Some simulations in roots growth, used to develop some background animations for a performance.
